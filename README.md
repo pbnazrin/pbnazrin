@@ -1,8 +1,8 @@
 # Hi 👋 I'm Nazrin
 
-### Frontend Engineer → AI/ML Engineer
+### Fullstack Engineer → AI/ML Engineer
 
-I'm a software engineer with **4 years of experience in frontend development**, now specializing in **Machine Learning, Generative AI, Agentic AI, and production AI systems**.
+I'm a software engineer with **4 years of experience in fullstack development**, now specializing in **Machine Learning, Generative AI, Agentic AI, and production AI systems**.
 
 I'm particularly interested in building AI applications that go beyond simple LLM integrations — combining **ML fundamentals, LLMs, RAG, agents, tool use, evaluation, and cloud deployment**.
 
@@ -371,7 +371,7 @@ Production AI Systems
 
 # 🎯 Career Direction
 
-I'm currently transitioning from **Frontend Engineering into AI/ML Engineering**, with a focus on building production-ready AI systems.
+I'm currently transitioning from **Fullstack Engineering into AI/ML Engineering**, with a focus on building production-ready AI systems.
 
 I'm particularly interested in opportunities involving:
 
