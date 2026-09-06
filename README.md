@@ -1,204 +1,274 @@
 # Hi 👋 I'm Nazrin
 
-### Fullstack Engineer → AI/ML Engineer
+### Software Engineer → AI/ML Engineer | Generative AI | Agentic AI | MDM
 
-I'm a software engineer with **4 years of experience in fullstack development**, now specializing in **Machine Learning, Generative AI, Agentic AI, and production AI systems**.
+I'm a **Software Engineer with 4 years of experience in frontend engineering**, working in the **Enterprise Mobility / Mobile Device Management (MDM)** domain.
 
-I'm particularly interested in building AI applications that go beyond simple LLM integrations — combining **ML fundamentals, LLMs, RAG, agents, tool use, evaluation, and cloud deployment**.
+I'm currently transitioning into **AI/ML Engineering**, with a focus on applying Machine Learning and Generative AI to real-world enterprise and device-management problems.
+
+My interests include **Machine Learning, Deep Learning, Generative AI, RAG, Agentic AI, MCP, AI evaluation, MLOps and production AI systems**.
+
+> **My goal:** Combine software engineering + MDM domain expertise + AI/ML to build intelligent, production-ready systems.
 
 ---
 
-## 🧠 What I'm Currently Focused On
+## 🧠 AI/ML Focus
 
-* Machine Learning & Deep Learning
+I'm currently building hands-on experience across:
+
+* Machine Learning
+* Deep Learning
 * Generative AI & LLMs
 * Retrieval-Augmented Generation (RAG)
-* Agentic AI & AI Agents
+* Agentic AI
 * Multimodal AI
 * MCP & Tool Engineering
-* LLM Evaluation
-* MLOps / LLMOps
-* Production AI Systems
-* Cloud Deployment
+* LLM / Agent Evaluation
+* MLOps & LLMOps
+* AI application deployment
 
 ---
 
-## 🛠️ AI/ML Tech Stack
+## 🏢 Domain Expertise
 
-### Machine Learning
+### Enterprise Mobility & Device Management
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat)
+My professional experience is in the **MDM / Enterprise Mobility Management domain**, working with systems that manage and monitor enterprise devices.
 
-### Deep Learning
+Areas I'm particularly interested in applying AI/ML to include:
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat)
+* Device health prediction
+* Predictive device failure
+* Device anomaly detection
+* Device telemetry analysis
+* Intelligent troubleshooting
+* Log analysis
+* Device configuration intelligence
+* Application and device monitoring
+* AI-powered support assistants
+* Automated root-cause analysis
 
-### Generative AI
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat)
-![RAG](https://img.shields.io/badge/RAG-5A67D8?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-
-* Prompt Engineering
-* Embeddings
-* Vector Search
-* Hybrid Search
-* Reranking
-* Function / Tool Calling
-* Structured Outputs
-* Fine-tuning
-* Multimodal AI
-
-### Agentic AI
-
-* AI Agents
-* Agent orchestration
-* LangGraph
-* Tool calling
-* MCP
-* Multi-agent workflows
-* Human-in-the-loop
-* Guardrails
-* Agent evaluation
-
-### MLOps / LLMOps
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat\&logo=mlflow\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
-
-* Experiment tracking
-* Model versioning
-* Model evaluation
-* AI observability
-* Logging & monitoring
-* CI/CD
-* Docker
-* Cloud deployment
+> Portfolio projects use **synthetic or publicly available data** and do not contain proprietary company code, data or confidential information.
 
 ---
 
 # 🚀 Featured AI/ML Projects
 
-## 🧠 End-to-End Machine Learning System
+## 🧠 Predictive Device Health & Failure Detection
 
-**Customer Churn Prediction**
+An end-to-end Machine Learning system designed to identify enterprise devices that may be at risk of failure or becoming unhealthy.
 
-An end-to-end ML pipeline covering the complete machine learning lifecycle.
+### Problem
 
-**Highlights:**
+Can device telemetry be used to predict whether a device is likely to experience a failure or become unhealthy in the near future?
 
-* Data preprocessing & EDA
-* Feature engineering
-* Model comparison
-* XGBoost / Scikit-learn
-* Hyperparameter tuning
-* Cross-validation
-* Model evaluation
-* SHAP explainability
-* MLflow experiment tracking
-* FastAPI inference API
-* Dockerized deployment
-* Cloud deployment
+### Example features
+
+```text
+Device OS
+OS Version
+Device Model
+Battery Health
+Battery Temperature
+CPU Usage
+Memory Usage
+Storage Usage
+Network Signal
+App Crash Count
+Error Count
+Reboot Count
+Last Check-in
+Data Usage
+Days Since Update
+```
+
+### ML Pipeline
+
+```text
+Device Telemetry
+       ↓
+Data Cleaning
+       ↓
+Exploratory Data Analysis
+       ↓
+Feature Engineering
+       ↓
+Preprocessing
+       ↓
+ML Models
+       ↓
+Model Evaluation
+       ↓
+Explainability
+       ↓
+Model Tracking
+       ↓
+API
+       ↓
+Docker
+       ↓
+Cloud Deployment
+```
+
+### Technologies
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* XGBoost
+* SHAP
+* MLflow
+* FastAPI
+* Docker
 
 🔗 **Repository:** `Coming Soon`
 
 ---
 
-## 🔥 Production-Grade RAG System
+## 🚨 Device Anomaly Detection
 
-**Enterprise Knowledge Assistant**
+An ML system for identifying unusual behaviour in enterprise device telemetry where labelled failure data may not always be available.
 
-A production-oriented RAG system designed to answer questions over enterprise documents with reliable retrieval and citations.
-
-**Architecture:**
+### Example
 
 ```text
-Documents
-    ↓
-Document Processing
-    ↓
-Chunking
-    ↓
-Embeddings
-    ↓
-Vector Database
-    ↓
-Hybrid Retrieval
-    ↓
-Reranking
-    ↓
-LLM
-    ↓
-Answer + Citations
+Normal Device
+     ↓
+CPU       ─────────
+Memory    ───────
+Battery   ──────────
+Network   ─────────
+Errors    ──
+
+
+Potential Anomaly
+     ↓
+CPU       ───────────────
+Memory    ─────────────
+Battery   ───
+Network   ─
+Errors    ───────────────
 ```
 
-**Highlights:**
+### Techniques explored
+
+* Exploratory data analysis
+* Feature engineering
+* Isolation Forest
+* One-Class SVM
+* Autoencoders
+* Anomaly scoring
+* Threshold selection
+* Model evaluation
+
+🔗 **Repository:** `Coming Soon`
+
+---
+
+# 🔥 MDM Knowledge RAG
+
+### Enterprise Mobility Support Copilot
+
+A RAG-based AI assistant designed to answer questions about device management, enrollment, policies, operating systems, applications and troubleshooting.
+
+The system uses **publicly available documentation and synthetic examples**.
+
+### Architecture
+
+```text
+              User
+                ↓
+          Query Processing
+                ↓
+        ┌───────────────┐
+        │  Hybrid Search │
+        └───────┬───────┘
+                ↓
+       Vector + Keyword Search
+                ↓
+             Reranker
+                ↓
+               LLM
+                ↓
+        Answer + Citations
+```
+
+### Focus areas
 
 * Document ingestion
-* Semantic search
-* Hybrid search
-* Metadata filtering
+* Chunking strategies
+* Embeddings
+* Vector databases
+* Hybrid retrieval
 * Reranking
 * Query rewriting
-* Contextual compression
+* Metadata filtering
 * Citation generation
-* Conversation memory
 * RAG evaluation
-* Latency & cost tracking
+* Hallucination reduction
 
 🔗 **Repository:** `Coming Soon`
 
 ---
 
-## 🤖 Agentic AI Research Assistant
+# 🤖 Agentic MDM Troubleshooting Assistant
 
-An autonomous AI agent capable of planning tasks, selecting tools and combining information from multiple sources.
+An AI agent designed to investigate device issues by interacting with device-management tools and knowledge sources.
 
-**Architecture:**
+### Example
 
 ```text
-                    User
-                     ↓
-               Agent Planner
-                     ↓
-              ┌──────┼──────┐
-              ↓      ↓      ↓
-          Web Search  RAG  Python
-              ↓      ↓      ↓
-              └──────┼──────┘
-                     ↓
-              Reasoning Agent
-                     ↓
-                Final Answer
+Admin:
+"Why is device ABC123 offline?"
+              ↓
+       Troubleshooting Agent
+              ↓
+     ┌────────┼─────────┐
+     ↓        ↓         ↓
+ Device     Logs      Network
+ Status     Tool        Tool
+     ↓        ↓         ↓
+     └────────┼─────────┘
+              ↓
+        Root Cause Analysis
+              ↓
+       Recommended Action
 ```
 
-**Tools:**
+### Example tools
 
-* Web search
-* RAG retrieval
-* Python execution
-* SQL database
-* Calculator
-* External APIs
+```text
+get_device_status()
+get_device_logs()
+get_network_status()
+get_device_policy()
+get_device_app_status()
+get_recent_commands()
+get_device_location()
+```
 
-**Highlights:**
+### Technologies
 
+* Python
 * LangGraph
-* Tool calling
+* LLMs
+* RAG
+* Tool Calling
+* MCP
+* FastAPI
+* PostgreSQL
+* Vector Database
+* AI Observability
+
+### Engineering focus
+
 * Agent state management
+* Tool selection
 * Planning & routing
-* Human-in-the-loop
 * Error handling
 * Guardrails
+* Human-in-the-loop
 * Agent evaluation
 * Observability
 
@@ -206,74 +276,65 @@ An autonomous AI agent capable of planning tasks, selecting tools and combining 
 
 ---
 
-## 👁️ Multimodal RAG
+# 👁️ Multimodal Device Support Assistant
 
-**Multimodal Document Intelligence System**
+An experimental multimodal AI system that combines screenshots, device telemetry and enterprise documentation to assist with troubleshooting.
 
-An AI system capable of understanding documents containing **text, tables, images and charts**.
+### Architecture
 
 ```text
-                  PDF
-                   ↓
-          Document Processing
-                   ↓
-       ┌───────────┼───────────┐
-       ↓           ↓           ↓
-     Text        Tables      Images
-       ↓           ↓           ↓
-   Embeddings   Structured   Vision
-       ↓           ↓           ↓
-       └───────────┼───────────┘
-                   ↓
-             Multimodal RAG
-                   ↓
-                  LLM
+              Screenshot
+                  +
+           Device Telemetry
+                  +
+            MDM Knowledge
+                  ↓
+          Multimodal AI
+                  ↓
+          Diagnosis / RAG
+                  ↓
+       Recommended Resolution
 ```
 
-**Use cases:**
+### Capabilities
 
-* Document question answering
-* Table analysis
-* Chart understanding
-* Image-based question answering
-* Cross-modal retrieval
+* Screenshot understanding
+* Error extraction
+* Document retrieval
+* Device-context analysis
+* Multimodal reasoning
+* Troubleshooting recommendations
 
 🔗 **Repository:** `Coming Soon`
 
 ---
 
-## 🔌 MCP + Tool Engineering
+# 🔌 MCP & Tool Engineering
 
-**MCP-Powered AI Assistant**
+Exploring **Model Context Protocol (MCP)** and tool-based AI systems for connecting agents with external enterprise systems.
 
-An AI assistant that interacts with external systems through MCP-based tools.
+### Example architecture
 
 ```text
-                 AI Agent
-                    ↓
-                MCP Client
-                    ↓
-        ┌───────────┼───────────┐
-        ↓           ↓           ↓
-     GitHub       Database     Files
-      MCP           MCP         MCP
+                    AI Agent
+                       ↓
+                   MCP Client
+                       ↓
+        ┌──────────────┼──────────────┐
+        ↓              ↓              ↓
+     Device          Database       Documents
+      Tools            Tools          Tools
+        ↓              ↓              ↓
+     MDM Data        SQL Data      Knowledge
 ```
-
-**Tools include:**
-
-* Document search
-* Database queries
-* GitHub operations
-* File operations
-* Project information
-* External API integrations
 
 Focus areas:
 
-* Tool design
+* MCP servers
 * Tool schemas
+* Function calling
 * Structured outputs
-* Permission boundaries
+* Tool permissions
 * Error handling
 * Agent-tool interaction
 * Secure tool execution
@@ -282,88 +343,172 @@ Focus areas:
 
 ---
 
-## 🚀 Production AI / MLOps
+# 📊 AI Evaluation
 
-Taking AI applications from development to production.
+A major focus of my AI engineering work is **measuring whether AI systems actually work**.
+
+I'm exploring evaluation across:
 
 ```text
-                    GitHub
-                       ↓
-                    CI/CD
-                       ↓
-                    Docker
-                       ↓
-                 Cloud Service
-                       ↓
-                 AI Application
-                       ↓
-        ┌──────────────┼──────────────┐
-        ↓              ↓              ↓
-      Logs          Metrics         Traces
+RAG
+ ├── Retrieval Quality
+ ├── Context Relevance
+ ├── Faithfulness
+ └── Answer Relevance
+
+Agents
+ ├── Tool Selection
+ ├── Task Completion
+ ├── Agent Trajectory
+ └── Error Recovery
+
+Production
+ ├── Latency
+ ├── Token Usage
+ ├── Cost
+ └── Reliability
 ```
 
-**Focus areas:**
+---
 
+# 🚀 MLOps / LLMOps
+
+Building AI systems with production engineering practices.
+
+```text
+GitHub
+   ↓
+CI/CD
+   ↓
+Docker
+   ↓
+Cloud
+   ↓
+AI Application
+   ↓
+Monitoring
+   ├── Logs
+   ├── Metrics
+   ├── Traces
+   ├── Latency
+   └── Cost
+```
+
+Areas of interest:
+
+* MLflow
+* Model versioning
+* Experiment tracking
+* Model evaluation
+* Prompt versioning
+* AI observability
 * FastAPI
 * Docker
 * CI/CD
 * Cloud deployment
-* Model versioning
-* Prompt versioning
-* AI observability
-* Monitoring
-* Latency tracking
-* Token & cost tracking
-* Evaluation pipelines
 
 ---
 
-# 💻 Previous Engineering Experience
+# 💻 Software Engineering Background
 
-Before moving deeper into AI/ML, I worked as a **Frontstack Developer**, building production applications and working with modern web technologies.
+Before specializing in AI/ML, I worked as a **Frontend Engineer** building production enterprise applications.
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+* Angular
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+* RxJS
+* State Management
 
 ### Engineering
 
 * REST APIs
-* State management
 * Component architecture
-* Git & Git workflows
-* Debugging & performance optimization
+* Application architecture
+* Git
 * CI/CD
-* Agile development
-* Production application development
+* Debugging
+* Performance optimization
+* Enterprise application development
+
+My software engineering background helps me approach AI systems not only as ML experiments, but as **maintainable and deployable production applications**.
 
 ---
 
-# 📚 Currently Learning
+# 🛠️ Current AI/ML Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+
+### Data & ML
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat)
+
+### Deep Learning & GenAI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
+
+* Transformers
+* LLMs
+* Embeddings
+* RAG
+* Multimodal AI
+* Fine-tuning
+
+### Agentic AI
+
+* LangChain
+* LangGraph
+* MCP
+* Tool Calling
+* AI Agents
+* Human-in-the-loop
+* Guardrails
+
+### MLOps / Backend
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat\&logo=mlflow\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
+
+---
+
+# 📚 Current Learning Path
 
 ```text
+Python
+   ↓
+Statistics & Mathematics
+   ↓
 Machine Learning
-      ↓
+   ↓
 Deep Learning
-      ↓
+   ↓
+PyTorch
+   ↓
 Transformers
-      ↓
+   ↓
 Generative AI
-      ↓
+   ↓
 RAG
-      ↓
+   ↓
 Agentic AI
-      ↓
+   ↓
 MCP & Tool Engineering
-      ↓
+   ↓
 Evaluation
-      ↓
+   ↓
 MLOps / LLMOps
-      ↓
+   ↓
 Production AI Systems
 ```
 
@@ -371,34 +516,27 @@ Production AI Systems
 
 # 🎯 Career Direction
 
-I'm currently transitioning from **Fullstack Engineering into AI/ML Engineering**, with a focus on building production-ready AI systems.
+I'm transitioning from **Frontend Engineering into AI/ML Engineering**, with a particular interest in:
 
-I'm particularly interested in opportunities involving:
+* AI Engineer
+* Machine Learning Engineer
+* Generative AI Engineer
+* Agentic AI Engineer
+* AI/ML Platform Engineering
+* MLOps / LLMOps
 
-* AI Engineering
-* Machine Learning Engineering
-* Generative AI
-* Agentic AI
-* LLM Applications
-* RAG Systems
-* AI Platform Engineering
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+I'm especially interested in solving **enterprise problems using AI/ML**, where strong software engineering and domain knowledge can be combined with intelligent systems.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-* 💼 LinkedIn: `https://www.linkedin.com/in/nazrin-p-b-0708733b/`
+* 💼 LinkedIn: `[Your LinkedIn](https://www.linkedin.com/in/nazrin-p-b-0708733b/)`
 * 📧 Email: `pbnazrin@gmail.com`
-* 🐙 GitHub: `https://github.com/pbnazrin
+* 🐙 GitHub: `https://github.com/pbnazrin/`
 
 ---
 
-> **Building the transition from software engineering to intelligent systems — one project at a time.**
+> **From managing devices to building intelligent systems.**
+>
+> **Software Engineering × MDM × AI/ML**
