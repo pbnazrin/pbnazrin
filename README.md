@@ -397,7 +397,7 @@ I'm particularly interested in opportunities involving:
 
 * 💼 LinkedIn: `https://www.linkedin.com/in/nazrin-p-b-0708733b/`
 * 📧 Email: `pbnazrin@gmail.com`
-* 🐙 GitHub: `Your GitHub`
+* 🐙 GitHub: `https://github.com/pbnazrin
 
 ---
 
